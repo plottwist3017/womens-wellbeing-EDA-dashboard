@@ -20,6 +20,13 @@ Instead of static charts, users can click through different indicators and insta
 
 ---
 
+## 🎥 Project Demo
+
+
+![Dashboard Demo](Demo.gif)
+
+---
+
 ## 🎯 Research Focus
 
 How do education, financial autonomy, healthcare access, technology ownership, and wealth vary across countries in relation to women’s wellbeing?
